@@ -54,8 +54,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelsonti&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Joelson's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joelsonti&theme=tokyonight&hide_border=true" alt="Joelson's GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joelsonti&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Joelson's GitHub stats" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joelsonti&theme=tokyonight&hide_border=true" alt="Joelson's GitHub streak stats" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelsonti&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
