@@ -65,15 +65,15 @@
 
 <p align="left">
   <p><a href="https://www.linkedin.com/in/joelsonti/">
-    <img src="https://img.shields.io/badge/LinkedIn-Joelson_J_Santos-0A66C2?style=flat-square&logo=null" alt="LinkedIn" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-Joelson_J_Santos-0A66C2?style=flat-square&logo=null" alt="LinkedIn" target="_blank" rel="noopener noreferrer">
   </a></p>
   <p><a href="https://www.instagram.com/joelsonti/">
-    <img src="https://img.shields.io/badge/Instagram-Joelson_J_Santos-833AB4?style=flat-square&logo=null" alt="Instragram" target="_blank" />
+    <img src="https://img.shields.io/badge/Instagram-Joelson_J_Santos-833AB4?style=flat-square&logo=null" alt="Instragram" target="_blank" rel="noopener noreferrer">
   </a></p>
   <p><a href="https://www.x.com/joelsonti/">
-    <img src="https://img.shields.io/badge/X-Joelson_J_Santos-657786?style=flat-square&logo=null" alt="X" target="_blank" />
+    <img src="https://img.shields.io/badge/X-Joelson_J_Santos-657786?style=flat-square&logo=null" alt="X" target="_blank" rel="noopener noreferrer">
   </a></p>
   <p><a href="mailto:joelsonti@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-joelsonti@outlook.com-249ee4?style=flat-square&logo=mull" alt="Outlook" target="_blank" />
+    <img src="https://img.shields.io/badge/Outlook-joelsonti@outlook.com-249ee4?style=flat-square&logo=mull" alt="Outlook" target="_blank" rel="noopener noreferrer">
   </a></p>
 </p>
