@@ -64,16 +64,16 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <p><a href="https://www.linkedin.com/in/joelsonti/" alt="LinkedIn" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/joelsonti/" alt="LinkedIn" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Joelson_J_Santos-0A66C2?style=flat-square&logo=null" alt="LinkedIn" />
-  </a></p>
-  <p><a href="https://www.instagram.com/joelsonti/" alt="Instagram" target="_blank" rel="noopener noreferrer">
+  </a><br>
+  <a href="https://www.instagram.com/joelsonti/" alt="Instagram" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-Joelson_J_Santos-833AB4?style=flat-square&logo=null" alt="Instragram" />
-  </a></p>
-  <p><a href="https://www.x.com/joelsonti/" alt="X" target="_blank" rel="noopener noreferrer">
+  </a><br>
+  <a href="https://www.x.com/joelsonti/" alt="X" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-Joelson_J_Santos-657786?style=flat-square&logo=null" alt="X" />
-  </a></p>
-  <p><a href="mailto:joelsonti@outlook.com" alt="Outlook" target="_blank" rel="noopener noreferrer">
+  </a><br>
+  <a href="mailto:joelsonti@outlook.com" alt="Outlook" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Outlook-joelsonti@outlook.com-249ee4?style=flat-square&logo=mull" alt="Outlook" />
-  </a></p>
+  </a>
 </p>
