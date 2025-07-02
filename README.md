@@ -65,13 +65,13 @@
 
 <p align="left">
   <p><a href="https://www.linkedin.com/in/joelsonti/">
-    <img src="https://img.shields.io/badge/LinkedIn-Joelson_Santos-0A66C2?style=flat-square&logo=null" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Joelson_J_Santos-0A66C2?style=flat-square&logo=null" alt="LinkedIn" />
   </a></p>
   <p><a href="https://www.instagram.com/joelsonti/">
-    <img src="https://img.shields.io/badge/Instagram-Joelson_Santos-833AB4?style=flat-square&logo=null" alt="Instragram" />
+    <img src="https://img.shields.io/badge/Instagram-Joelson_J_Santos-833AB4?style=flat-square&logo=null" alt="Instragram" />
   </a></p>
   <p><a href="https://www.x.com/joelsonti/">
-    <img src="https://img.shields.io/badge/X-Joelson_Santos-657786?style=flat-square&logo=null" alt="X" />
+    <img src="https://img.shields.io/badge/X-Joelson_J_Santos-657786?style=flat-square&logo=null" alt="X" />
   </a></p>
   <p><a href="mailto:joelsonti@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-joelsonti@outlook.com-249ee4?style=flat-square&logo=mull" alt="Outlook" />
