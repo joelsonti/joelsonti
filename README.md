@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=joelsonti&color=green" alt="Profile views" />
 </p>
 
-<p>💻 Desenvolvedor Frontend focado em **HTML, CSS e JavaScript**.</p>
-<p>🎯 Apaixonado por desenvolver soluções e resolver problemas complexos.</p>
-<p>🌱 Atualmente aprimorando habilidades em **Bootstrap, React, Angular e Vue.JS**.</p>
+💻 Desenvolvedor Frontend focado em **HTML, CSS e JavaScript**.<br>
+🎯 Apaixonado por desenvolver soluções e resolver problemas complexos.<br>
+🌱 Atualmente aprimorando habilidades em **Bootstrap, React, Angular e Vue.JS**.
 
 ---
 
